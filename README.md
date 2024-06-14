@@ -1,5 +1,5 @@
 # Ants-Vs-Bees
-This project was the culmination of my Object-Oriented Programming CS class at UC Berkeley. It is a 2D game much like the classic Plants Vs. Zombies, except now using insects! This project had me mainly working in ants.py, where I implemented all of my OOP techniques learned over the semester.
+This project was the culmination of my Object-Oriented Programming CS class at UC Berkeley. It is a 2D game much like the classic Plants Vs. Zombies, except now using insects! This project had me mainly working in **ants.py**, where I implemented all of my OOP techniques learned over the semester.
 
 Ants Vs. Bees, much like the original game it's modeled after, is a tower defense game, where you the player have to strategically defend the board using all resources available. Food is used as a currency to purchase and place new ants, of which there are numerous different types, all with different abilities. The player uses these ants to attempt to stop the aggressors, the bees, from marching all the way accross the board.
 
